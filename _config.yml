@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+
+gem "github-pages", group: :jekyll_plugins
+
+title: [Team Ausdroid]
+description: [Homepage for Team Ausdroid, who represented The University of Melbourne in DJI RoboMaster AI Challenge at ICRA 2018 and ICRA 2019]
+
